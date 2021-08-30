@@ -1,10 +1,13 @@
-Extensão para Chrome
+Nesse vídeo, vamos apresentar algumas ferramentas muito úteis para quem vai desenvolver sites em WordPress. Veja a lista a seguir e assista o vídeo até o final para ver como instalar e usar esses aplicativos:
 
-ColorZila Pega a cor de qualquer site
-FontFaceNinja Pega a Fonte usada no site
+FileZilla – Ferramenta cliente FTP para transferir arquivos para o seu servidor.
 
-FileZilla Gerenciador FTP
-Putty
-Notepad++
-(Instalado Puglin para Notepad++)
-Xampp
+Putty – Ferramenta de SSH para acesso remoto ao seu servidor.
+
+ColorZilla – Ferramenta para capturar cores em sites. Muito útil para manter a identidade de um site.
+
+Fontface Ninja – Ferramenta para identificar fontes usadas em sites.
+
+Notepad ++ – Editor de código bem leve e eficiente, incluindo um cliente FTP.
+
+XAMPP – Pacote que inclui o Apace + MySql / MariaDB, PHP e o PHPmyAdmin. Crie um servidor na sua própria casa.
