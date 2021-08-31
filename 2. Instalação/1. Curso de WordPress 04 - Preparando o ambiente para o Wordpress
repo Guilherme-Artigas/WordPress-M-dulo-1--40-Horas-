@@ -2,3 +2,12 @@ Recomendação do Ramiro é ter 2 contas de e-mail
 
 wordpress01@guilherme-artigas.com
 Senha: Yuh0@Yuh
+Banco de dados foi criado usando Xampp localmente, cursowp.
+
+Para o WordPress funcionar precisamos de 2 coisas, 1 banco de dados e 2 e-mails
+
+Recomendação do Ramiro é ter 2 e-mails.
+Um para o cliente usar como contato e outro para usar como login e senha para configuração do servidor.
+Pois o e-mail que passamos ao cliente ele pode alterar a senha e isso vai prejudicar a configuração do servidor.
+
+Devemos criar um e-mail só de envio de formulário.

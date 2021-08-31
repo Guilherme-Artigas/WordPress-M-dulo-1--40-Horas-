@@ -1,0 +1,13 @@
+	1. Baixar o WordPress
+	www.wordpress.org / www.wordpress.com.br
+
+	2. Vamos no disco local C: > Xampp > htdocs e colocamos o download do wordpress aqui dentro
+	3. Foi renomeado a pasta com nome de WordPress para "cursowp", aqui da pra perceber que esse nome é genérico podemos escolher o nome que quisermos, ou nome do nosso cliente, lembrando de evitar acentuações, espaços em branco, letras maiúsculas e caracteres especiais.
+	4. Clicamos no Admin do Xampp (Apache), substituímos a palavra "dashboard" do diretório localhost/dashboard para o nome escolhido na pasta descompactada do passo 3, nesse exemplo "cursowp", damos enter e a partir desse momento vai abrir o instalador do WordPress para escolhermos o idioma e prosseguir.
+	
+	Nesse momento vem configurações de administrador do WordPress
+	
+	Titulo do site: Curso WordPress
+	Nome de usuário: cursoemvideo
+	Senha: 123456
+	E-mail: joaozinho@gmail.com (e-mail de administrador)
