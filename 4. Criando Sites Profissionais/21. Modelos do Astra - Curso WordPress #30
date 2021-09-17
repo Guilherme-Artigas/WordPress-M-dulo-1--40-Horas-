@@ -1,0 +1,18 @@
+Astra é um tema, mais ele tem modelos prontos de conteúdo, o site criado no curso foi baseado encima de um modelo pronto do Astra, nessa aula o Ramiro e o Guanabara deixam isso claro.
+
+Dica da aula #1
+Basear novos projetos em modelos prontos, pra quem é assinante Cloud da HostNet tem modelos premium disponíveis.
+
+Dica da aula #2
+wpastra.com, nesse site existem vários modelos prontos
+
+Dica da aula #3
+Navegar ate a pasta onde esta a configuração do php.
+
+Em casos de localhost:
+	• xampp > php > php.ini > botão direito e usar o editor de código da sua preferencia.
+	• dentro desse documento vamos procurar por "max_exe".
+	• que vem pré configurado com 30seg, na aula foi editado para 3000, segundo Ramiro em localhost, essa configuração e tranquilo.
+	
+Dica da aula #4
+Na aula esta sendo instalado um plugin chamado Astra Starter Sites, que tem vários modelos prontos. Aqui podemos importar e usar esses modelos, podemos trabalhar encima.
