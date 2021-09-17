@@ -1,0 +1,15 @@
+Nessa aula esta sendo trabalhado na responsividade da pagina home, foi feita a lista com as alterações necessárias.
+
+	• Ícone do menu hamburguinho.
+	• Inverter a ordem das colunas da segunda seção, priorizando informações mais relevantes.
+	• Ajustes no resumo do cardápio que ficou quebrado.
+
+São 3 pontos que podemos trabalhar com alterações na responsividade, através do tema, através do gutemberg, através do microthemer.
+
+Ajustes feitos com tamanho de tela para determinado dispositivo e a partir do momento que publicamos, aquela configuração com aqueles valores estipulados são salvos para o dispositivo especifico.
+
+Dica aula #1
+O microthemer só tem  15 alterações na sua versão gratuita.
+
+Dica da aula #2
+Foi feito um ajuste em um bloco reutilizável contendo informações de telefone de contato para reservas, onde alterou uma vez e alterou para todas as paginas.
